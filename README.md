@@ -1,4 +1,4 @@
-## Teste Barin Agriculture - Frontend
+## Teste Brain Agriculture - Frontend
 
 Crie o arquivo .env e copie a configuração a partir do .env.example.
 
