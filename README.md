@@ -8,7 +8,7 @@ Crie o arquivo .env e copie a configuração a partir do .env.example.
 $ npm install
 ```
 
-## Rodar o projeto
+## Rodando o projeto
 
 ```bash
 $ npm run start
